@@ -43,3 +43,8 @@ Power BI – Visualization, KPI cards, and automation
 
 DAX Measures – Dynamic calculation of KPIs for previous business day
 
+SCREENSHOT
+
+<img width="902" height="497" alt="image" src="https://github.com/user-attachments/assets/f9ceb09e-9884-497a-aeed-8eff778cc29b" />
+
+
